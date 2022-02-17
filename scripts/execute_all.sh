@@ -1,0 +1,10 @@
+source scripts/bbs.sh
+source scripts/bfs.sh
+source scripts/ibs.sh
+source scripts/bfe.sh
+source scripts/bft512.sh
+source scripts/bft32k.sh
+source scripts/splay.sh
+source scripts/css.sh
+source scripts/bptree.sh
+source scripts/pgm.sh
