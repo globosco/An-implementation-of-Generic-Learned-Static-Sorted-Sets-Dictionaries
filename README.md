@@ -3,7 +3,6 @@
 This repository contains two C++ implementation of a Generic Learned Static Sorted Sets Dictionaries.
 These two version, called Binning and PGM, are described in detail in
 
-====
 
 ## Datasets
 
