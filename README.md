@@ -20,7 +20,7 @@ We provide a number of scripts to automate things. Each is located in the `scrip
 
 ## Cite
 
-If you use this benchmark in your own work, please us:
+If you use this benchmark in your own work, please cite us:
 
 ```
 
