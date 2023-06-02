@@ -6,7 +6,7 @@ These two version, called Binning and PGM, are described in detail in
 
 ## Datasets
 
-Datasets used in this work can be downloaded at https://math.unipa.it/lobosco/LSTS/
+L1-L3 Datasets used in this work can be downloaded at https://osf.io/qtyu7/?view_only=b48e6cc6e01b441383b26b81588090ec while the L4 versions at https://osf.io/ygnw8/?view_only=f531d074c25b4d3c92df6aec97558b39 
 All downloaded files must be placed in the data folder located in the repository root before running the benchmark scripts.
 
 ## Usage instructions
